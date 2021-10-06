@@ -1,0 +1,34 @@
+*{
+	margin: 5;
+	padding: 5;
+	box-sizing: border-box;
+}
+body{
+	background: #48dd33;
+	font-family: 'segoe UI';
+}
+h1{
+	margin-bottom: 5px;
+	color: #793ff9;
+}
+h2{
+	color: #000000;
+}
+h3{
+	color: #000000;
+}
+p{
+	margin-bottom: 3px;
+}
+img{
+	width: 50%;
+	margin: 22px;
+}
+main{
+	background-color: #10aff0;
+	padding: 5px;
+	margin: 5px auto;
+	max-width: 1200px;
+	display: block;
+	column-count: 2;
+}

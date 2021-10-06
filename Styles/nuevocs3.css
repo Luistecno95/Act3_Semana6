@@ -1,0 +1,123 @@
+body{
+text-align: center;
+/** background: url(http://www.formasterminds.com/content/bricks2.jpg);**/
+}
+#principal{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 1px solid #999999;
+background: #ffdab9;
+
+
+/** background: -webkit-linear-gradient(top, transparent, #666666);
+background: -moz-linear-gradient(top, transparent, #666666); **/
+
+
+}
+#titulo{
+font: bold 36px verdana, sans-serif;
+}
+#principal2{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 3px solid #993366;
+background: #FFFFFF;
+border-radius: 20px;
+box-shadow: #800000 10px 10px 15px;
+}
+#principal3{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 3px solid #008080;
+background: #FFFFFF;
+border-radius: 20px 10px 30px 50px;
+box-shadow: #4169e1 10px 10px;
+
+background: -webkit-linear-gradient(top, #ffa500, #c71585);
+background: -moz-linear-gradient(top, #ffa500, #c71585);
+
+}
+
+#principal4{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+background: #da70d6;
+border: 5px solid #000080;
+border-radius: 20px / 10px;
+box-shadow: #00ff7f 5px 5px;
+}
+
+#principal5{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 3px solid #993366;
+background: #FFFFFF;
+border-radius: 20px;
+box-shadow: #9370db 5px 5px 10px inset;
+text-shadow: #800080 3px 3px 5px;||
+
+}
+
+
+#principal6{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 1px solid #999999;
+background: #ffdab9;
+background: -webkit-linear-gradient(top, #ffa500, #66cdaa, #2e8b57);
+background: -moz-linear-gradient(top, #ffa500, #66cdaa, #2e8b57);
+}
+#principal7{
+display: block;
+width: 500px;
+margin: 50px auto;
+padding: 15px;
+border: 3px solid #993366;
+background: #FFFFFF;
+border-radius: 20px;
+box-shadow: #800000 10px 10px 15px;
+/**
+-webkit-transform: scale(1,-1);
+-moz-transform: scale(1,-1); **/
+
+/** -webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg); **/
+/**
+-webkit-transform: skew(-20deg);
+-moz-transform: skew(-20deg); **/
+
+/** -webkit-transform: translate(150px);
+-moz-transform: translate(150px); **/
+
+/** -webkit-transform: translateY(100px) rotate(45deg) scaleX(0.3);
+-moz-transform: translateY(100px) rotate(45deg) scaleX(0.3); **/
+}
+
+#principal7:hover{
+
+
+/** -webkit-transform: rotate(5deg);
+-moz-transform: rotate(5deg); **/
+
+/** -webkit-transform: perspective(500px) rotate3d(0, 1, 0, 45deg);
+-moz-transform: perspective(500px) rotate3d(0, 1, 0, 45deg); **/
+
+
+-webkit-transform: perspective(500px) translate3d(0, 0, -300px) rotate3d(0, 1, 0, 50deg);
+-moz-transform: perspective(500px) translate3d(0, 0, -300px) rotate3d(0, 1, 0, 50deg);
+
+}
+
+
